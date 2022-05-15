@@ -59,4 +59,5 @@ btnSend.addEventListener("click", () => {
       pedirNombre();
     }
   }
+  console.log("Fin");
 });
